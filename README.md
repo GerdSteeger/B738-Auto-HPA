@@ -38,7 +38,9 @@ License:
 This project is released under the MIT License.
 See the LICENSE file for details.
 
-Author:
-Gerd Steeger
+Credits:
+Project concept, development coordination and testing: Gerd Steeger
+Lua implementation and coding assistance: OpenAI ChatGPT
+Published and maintained by: Gerd Steeger
 
 Developed for the X-Plane flight simulation community.
